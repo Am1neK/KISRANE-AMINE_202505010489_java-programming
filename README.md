@@ -1,7 +1,7 @@
 # KISRANE-AMINE_202505010489_java-programming
 # BIT1123 Object Oriented Programming – Tutorial Portfolio
 
-**Student Name:** Amine Kisrane
+**Student Name:** KISRANE AMINE 
 **Student ID:** 202505010489
 **Course:** BIT1123 / BISE2093 / DIT1113 – Object Oriented Programming
 **Program:** BCSSE, Faculty of Information Technology
